@@ -1,11 +1,12 @@
-# Python Programming 大作业
-## 项目描述
-本项目是2021年北航计算机学院开设的Python程序设计课程的课设，采用tkinter作为交互界面设计的简易Python知识问答软件。
-## 运行前配置
-需安装额外Python包：
+# Python Programming Coursework
+## Project Description
+This is the final project for the Python Programming course offered by the School of Computer Science at Beihang University in 2021. 
+It is a simple Python knowledge Q&A software designed with the tkinter library as the GUI developing tool.
+## Settings Before Running
+Additional Python libraries：
 - numpy 1.19.5
 - matplotlib 3.4.3
 ## 运行过程
-命令行下定位到本项目根目录`pyProgramming_final_project`后，输入`python ./src/main.py`即可运行。
+Go to the directory `pyProgramming_final_project` in the terminal, and type in `python ./src/main.py` to run the app.
 
-注：撰写本项目时尚未学习数据库、 软工等课程，软件架构不甚规范。
+Note: This project was developed without prior knowledge of databases or software engineering concepts. The software architecture may not be very well-structured and involve no usage of data bases.
