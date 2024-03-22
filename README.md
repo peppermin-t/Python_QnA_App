@@ -1,4 +1,4 @@
-# Python Programming Coursework
+# Python-QnA-app
 ## Project Description
 This is the final project for the Python Programming course offered by the School of Computer Science at Beihang University in 2021. 
 It is a simple Python knowledge Q&A software designed with the tkinter library as the GUI developing tool.
